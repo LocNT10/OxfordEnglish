@@ -1,0 +1,11 @@
+E:\OxfordEnglish\OxfordEnglishAPI\OxfordEnglish\bin\Debug\netcoreapp2.0\OxfordEnglish.deps.json
+E:\OxfordEnglish\OxfordEnglishAPI\OxfordEnglish\bin\Debug\netcoreapp2.0\OxfordEnglish.runtimeconfig.json
+E:\OxfordEnglish\OxfordEnglishAPI\OxfordEnglish\bin\Debug\netcoreapp2.0\OxfordEnglish.runtimeconfig.dev.json
+E:\OxfordEnglish\OxfordEnglishAPI\OxfordEnglish\bin\Debug\netcoreapp2.0\OxfordEnglish.dll
+E:\OxfordEnglish\OxfordEnglishAPI\OxfordEnglish\bin\Debug\netcoreapp2.0\OxfordEnglish.pdb
+E:\OxfordEnglish\OxfordEnglishAPI\OxfordEnglish\obj\Debug\netcoreapp2.0\OxfordEnglish.csprojResolveAssemblyReference.cache
+E:\OxfordEnglish\OxfordEnglishAPI\OxfordEnglish\obj\Debug\netcoreapp2.0\OxfordEnglish.csproj.CoreCompileInputs.cache
+E:\OxfordEnglish\OxfordEnglishAPI\OxfordEnglish\obj\Debug\netcoreapp2.0\OxfordEnglish.AssemblyInfoInputs.cache
+E:\OxfordEnglish\OxfordEnglishAPI\OxfordEnglish\obj\Debug\netcoreapp2.0\OxfordEnglish.AssemblyInfo.cs
+E:\OxfordEnglish\OxfordEnglishAPI\OxfordEnglish\obj\Debug\netcoreapp2.0\OxfordEnglish.dll
+E:\OxfordEnglish\OxfordEnglishAPI\OxfordEnglish\obj\Debug\netcoreapp2.0\OxfordEnglish.pdb
